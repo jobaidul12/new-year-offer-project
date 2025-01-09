@@ -1,0 +1,70 @@
+
+/* font family merriweataher =  font-family: "Merriweather", serif;
+font family inter = font-family: "Inter", serif; */
+.banner-header{
+     background-image: url(/images/Banner\ Image.png);
+     text-align: center;
+     background-repeat: no-repeat;
+     background-position: center;
+     border-radius: 16px;
+     color: white;
+     width: 1320px;
+     height: 600px;
+     position: relative;
+     border: 30px;
+     font-family: "Merriweather", serif;
+     text-shadow: 2px 1px red;
+     margin-top: 50px;
+     margin-bottom: 80px;
+     margin-left: 400px;
+     margin-right: 100px;
+     
+     
+}
+.new-year{
+     
+     font-size: 32px;
+     margin: 177px 530px 16px 530px;
+     
+    
+}
+.celebration-party{
+     font-size: 72px;
+     line-height: 30px;
+}
+.h1andh2{
+     height: 246px;
+     width: 632px;
+     margin: 233px 177px 344px 344px;
+     
+}
+.banner-footer-part{
+     background-image: url(images/Vectorrr.png);
+     margin-top: 50px;
+     margin-bottom: 80px;
+     margin-left: 400px;
+     margin-right: 100px;
+    
+}
+.text-color{
+     color: #ff0000;
+}
+.place-date-time{
+     background-color: linen;
+     background-position: center;
+     position: relative;
+     text-align: center;
+     text-decoration: none;
+     height: 482px;
+     width: 1320px;
+     margin-top: 50px;
+     margin-bottom: 80px;
+     margin-left: 400px;
+     margin-right: 100px;
+}
+.banner-main-part{
+     margin-top: 50px;
+     margin-bottom: 80px;
+     margin-left: 400px;
+     margin-right: 100px;
+}
